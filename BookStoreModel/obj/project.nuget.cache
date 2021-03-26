@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jtP8X6A8pOaHZ0PwTlXMrrDqgzZtrAGpU8CR7O/62tNr/h9z2IqPlVP9azqEXcHBoNv6JbeaoTBWLKlVvAmAIQ==",
+  "success": true,
+  "projectFilePath": "D:\\BridgeLabz_Projects\\ASP.Net Projects\\BookStore_BackEnd\\BookStoreModel\\BookStoreModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NKS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\NKS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\NKS\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.2.21154.6\\system.componentmodel.annotations.6.0.0-preview.2.21154.6.nupkg.sha512"
+  ],
+  "logs": []
+}

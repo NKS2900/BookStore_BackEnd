@@ -1,0 +1,9 @@
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\bin\Debug\netstandard2.0\BookStoreModel.deps.json
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\bin\Debug\netstandard2.0\BookStoreModel.dll
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\bin\Debug\netstandard2.0\BookStoreModel.pdb
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\obj\Debug\netstandard2.0\BookStoreModel.csprojAssemblyReference.cache
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\obj\Debug\netstandard2.0\BookStoreModel.AssemblyInfoInputs.cache
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\obj\Debug\netstandard2.0\BookStoreModel.AssemblyInfo.cs
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\obj\Debug\netstandard2.0\BookStoreModel.csproj.CoreCompileInputs.cache
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\obj\Debug\netstandard2.0\BookStoreModel.dll
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\BookStoreModel\obj\Debug\netstandard2.0\BookStoreModel.pdb

@@ -1,0 +1,12 @@
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\bin\Debug\netstandard2.0\BookStoreRepository.deps.json
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\bin\Debug\netstandard2.0\BookStoreRepository.dll
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\bin\Debug\netstandard2.0\BookStoreRepository.pdb
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\bin\Debug\netstandard2.0\BookStoreModel.dll
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\bin\Debug\netstandard2.0\BookStoreModel.pdb
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\obj\Debug\netstandard2.0\BookStoreRepository.csprojAssemblyReference.cache
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\obj\Debug\netstandard2.0\BookStoreRepository.AssemblyInfoInputs.cache
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\obj\Debug\netstandard2.0\BookStoreRepository.AssemblyInfo.cs
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\obj\Debug\netstandard2.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\obj\Debug\netstandard2.0\BookStoreRepository.csproj.CopyComplete
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\obj\Debug\netstandard2.0\BookStoreRepository.dll
+D:\BridgeLabz_Projects\ASP.Net Projects\BookStore_BackEnd\Repository\obj\Debug\netstandard2.0\BookStoreRepository.pdb
